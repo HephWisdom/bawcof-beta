@@ -239,7 +239,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: brown;
+  
     height: 650px;
 }
 .banner_img{
